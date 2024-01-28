@@ -16,9 +16,10 @@
 <h2 align="left">Oyun Tasarım Dökümanı</h2>
 <h4><a href="https://drive.google.com/file/d/1Sz2-RbHhkWBRr8oscScllQ2o7DPd3VbI/view?usp=drive_link">CollectibleCheeryDesignDocument.pdf</a></h3>
 
-
 <h2 align="left">Oyun İçi Görseller</h2>
 
 <img src="https://i.ibb.co/GCmybFH/image.png" width="520" height="300"/>
 <img src="https://i.ibb.co/4fW89Fj/2.png" width="520" height="300"/>
 <img src="https://i.ibb.co/8DtD5Dk/3.png" width="520" height="300"/>
+
+<h2><a href="https://github.com/mustafakamber/IntroductionToGameDevelopment/tree/main/Collectible%20Cherry%20For%20Desktop">Collectible Cherry'i Deneyin</a></h2>
