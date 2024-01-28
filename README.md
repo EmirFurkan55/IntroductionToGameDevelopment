@@ -22,4 +22,4 @@
 <img src="https://i.ibb.co/4fW89Fj/2.png" width="520" height="300"/>
 <img src="https://i.ibb.co/8DtD5Dk/3.png" width="520" height="300"/>
 
-<h2><a href="https://drive.google.com/file/d/1NjgkmC8XM7JYpuj0QA7URgyv4aE0cDMS/view?usp=sharing">Collectible Cherry'i Deneyin</a></h2>
+<h2><a href="https://drive.google.com/u/0/uc?id=1NjgkmC8XM7JYpuj0QA7URgyv4aE0cDMS&export=download">Collectible Cherry'i Deneyin</a></h2>
