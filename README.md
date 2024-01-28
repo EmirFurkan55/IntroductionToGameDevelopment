@@ -2,7 +2,7 @@
 <h4 align="left">Bölüm geçme üzerine kurulmuştur. Bulunduğu bölümdeki geçişini zorlaştıracak engeli aşması ve toplaması gereken Cherry’leri toplaması hedeflenmiştir.Windows işletim sistemi üzerinden oynanabilecek şekilde tasarlanmıştır.</h3>
 
 
-<h4 align="left">Projede Emeği Geçenler</h2>
+<h2 align="left">Projede Emeği Geçenler</h2>
 
 <h4><a href="https://github.com/mustafakamber">Mustafa Kamber</a></h3>
 <h4><a href="https://github.com/EmirFurkan55">Emir Furkan Umutlu</a></h3>
