@@ -14,7 +14,7 @@
 <h4 align="left">Ölüm: Dikenlere ve boşluğa düştüğünde tekrar oynaması için başlangıca geri döner. </h3>
 
 <h2 align="left">Oyun Tasarım Dökümanı</h2>
-<h4><a href="https://drive.google.com/file/d/1Sz2-RbHhkWBRr8oscScllQ2o7DPd3VbI/view?usp=drive_link">CollectibleCheeryDesignDocument.pdf</a></h3>
+<h4><a href="https://drive.google.com/file/d/1Sz2-RbHhkWBRr8oscScllQ2o7DPd3VbI/view?usp=sharing">CollectibleCheeryDesignDocument.pdf</a></h3>
 
 <h2 align="left">Oyun İçi Görseller</h2>
 
