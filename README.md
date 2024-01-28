@@ -1,5 +1,5 @@
 <h2 align="left">Collectible Cherry</h2>
-<h3 align="left">Bölüm geçme üzerine kurulmuştur. Bulunduğu bölümdeki geçişini zorlaştıracak engeli aşması ve toplaması gereken Cherry’leri toplaması hedeflenmiştir.</h3>
+<h3 align="left">Bölüm geçme üzerine kurulmuştur. Bulunduğu bölümdeki geçişini zorlaştıracak engeli aşması ve toplaması gereken Cherry’leri toplaması hedeflenmiştir.Windows işletim sistemi üzerinden oynanabilecek şekilde tasarlanmıştır.</h3>
 
 
 <h2 align="left">Projede Emeği Geçenler:</h2>
